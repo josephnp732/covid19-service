@@ -4,7 +4,9 @@ _NOTE:_ API Services used in Covid19-Backend Repository (https://github.com/jose
 
 ### Requires Python 3 and pip3
 
-To install requirements, run: `pip3 install -r requirements.txt` in their respective repos
+To install requirements, run: `pip3 install -r requirements.txt` in their respective repos directories
+
+#### Find Docker Images here: https://hub.docker.com/u/josephnp732
 
 ### Docker Image Pull commands:
 

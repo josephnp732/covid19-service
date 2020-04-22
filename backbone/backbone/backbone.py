@@ -3,7 +3,7 @@ from slack_webhook import Slack
 import requests
 import webbrowser
 
-slackWebhook = 'https://hooks.slack.com/services/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'
+slackWebhook = ''  # TODO: Add Slack Webhook here
 slack = Slack(url=slackWebhook)
 
 app = Flask(__name__)

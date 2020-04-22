@@ -6,9 +6,13 @@ _NOTE:_ API Services used in Covid19-Backend Repository (https://github.com/jose
 
 To install requirements, run: `pip3 install -r requirements.txt` in their respective repos directories
 
-#### Find Docker Images here: https://hub.docker.com/u/josephnp732
+### Adding New Slack API Webhook to the backbone/backbone.py file:
 
-### Docker Image Pull commands:
+Follow these instructions: https://api.slack.com/messaging/webhooks
+
+### Find Docker Images here: https://hub.docker.com/u/josephnp732
+
+#### Docker Image Pull commands:
 
 * `docker pull josephnp732/covid19_backbone:tag`
 * `docker pull josephnp732/covid19_all:tag`
